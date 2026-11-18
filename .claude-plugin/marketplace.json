@@ -1,0 +1,12 @@
+{
+  "name": "offbound",
+  "owner": { "name": "Offbound" },
+  "metadata": { "description": "Les outils Claude d'Offbound pour les membres de la communauté." },
+  "plugins": [
+    {
+      "name": "offbound",
+      "source": "./plugin",
+      "description": "Le coaching Offbound dans Claude, branché sur toute la formation Offbound."
+    }
+  ]
+}

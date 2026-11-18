@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "knowledge": {
+      "type": "http",
+      "url": "https://knowledge-api-offbound.valentin-734.workers.dev/mcp/knowledge",
+      "headers": { "Authorization": "Bearer ${user_config.jeton_offbound}" }
+    }
+  }
+}

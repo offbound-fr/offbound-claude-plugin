@@ -1,0 +1,29 @@
+{
+  "name": "offbound",
+  "version": "0.1.0",
+  "description": "Le coaching Offbound dans Claude : offre, prospection, setting, closing, contenu, recrutement, pilotage et IA, adaptés à ton métier, à partir de toute la formation Offbound (cours, workshops, consultings).",
+  "author": {
+    "name": "Offbound"
+  },
+  "homepage": "https://www.skool.com/offbound-fr",
+  "license": "LicenseRef-Offbound",
+  "keywords": [
+    "offbound",
+    "b2b",
+    "agence",
+    "acquisition",
+    "vente",
+    "coaching"
+  ],
+  "userConfig": {
+    "jeton_offbound": {
+      "type": "string",
+      "title": "Jeton Offbound",
+      "description": "Ton jeton personnel d'accès à la base de connaissance Offbound (commence par kk_off_). Demande-le à l'équipe Offbound.",
+      "sensitive": true,
+      "required": true
+    }
+  },
+  "privacyPolicyUrl": "https://offbound.fr/confidentialite-plugin",
+  "repository": "https://github.com/OFFBOUND_ORG/offbound-claude-plugin"
+}
