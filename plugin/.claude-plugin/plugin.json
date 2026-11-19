@@ -24,6 +24,6 @@
       "required": true
     }
   },
-  "privacyPolicyUrl": "https://offbound.fr/confidentialite-plugin",
+  "privacyPolicyUrl": "https://github.com/offbound-fr/offbound-claude-plugin/blob/main/PRIVACY.md",
   "repository": "https://github.com/offbound-fr/offbound-claude-plugin"
 }
