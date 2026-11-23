@@ -22,6 +22,9 @@ Offbound coaches B2B founders (agencies, SaaS, consultants) on their offer, clie
 ## Usage
 Ask in plain words, for example "I run a web agency at 15k a month and don't get enough meetings, what should I do first?", or call a skill directly: `/offbound:closing`. Answers are in French, like the program.
 
+## For reviewers
+A test token is available on request at valentin@offbound.fr. Without a token the plugin returns no content and explains how to get access.
+
 ## Privacy
 Read-only access with your token. Only the search text written by Claude is sent to the Offbound server, never your whole conversation. Full policy: https://github.com/offbound-fr/offbound-claude-plugin/blob/main/PRIVACY.md
 
