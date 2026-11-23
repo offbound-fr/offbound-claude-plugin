@@ -12,7 +12,11 @@ Offbound coaches B2B founders (agencies, SaaS, consultants) on their offer, clie
 
 ## Setup
 1. Get your personal token from the Offbound team (members: https://www.skool.com/offbound-fr). It starts with `kk_off_`.
-2. Install the plugin from the Claude plugin directory, then paste your token when Claude Code asks for it. It is stored in your system's secure credential store, never in a file. To change it later: `/plugin`, choose offbound, configure.
+2. Install the plugin from the Claude plugin directory, or directly with:
+   ```
+   /plugin install offbound --marketplace offbound-fr/offbound-claude-plugin
+   ```
+   then paste your token when Claude Code asks for it. It is stored in your system's secure credential store, never in a file. To change it later: `/plugin`, choose offbound, configure.
 3. Check with `/mcp` that the `knowledge` server is connected.
 
 ## Usage
