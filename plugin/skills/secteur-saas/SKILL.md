@@ -1,6 +1,6 @@
 ---
 name: secteur-saas
-description: Conseils Offbound pour le métier saas b2b (SaaS B2B, éditeur de logiciel, SaaS IA). À utiliser OBLIGATOIREMENT, avant de répondre, dès que l'utilisateur dit diriger ce type d'activité et pose une question de croissance (clients, chiffre d'affaires, offre, prix, acquisition, vente, équipe, organisation), ou veut savoir ce qui marche dans son métier, ses problèmes typiques et ses KPIs. À combiner avec le skill de la compétence en jeu.
+description: "Conseils Offbound pour le métier saas b2b (SaaS B2B, éditeur de logiciel, SaaS IA). À utiliser OBLIGATOIREMENT, avant de répondre, dès que l'utilisateur dit diriger ce type d'activité et pose une question de croissance (clients, chiffre d'affaires, offre, prix, acquisition, vente, équipe, organisation), ou veut savoir ce qui marche dans son métier, ses problèmes typiques et ses KPIs. À combiner avec le skill de la compétence en jeu."
 ---
 
 # SaaS B2B : ce qui marche chez Offbound

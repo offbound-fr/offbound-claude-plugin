@@ -1,6 +1,6 @@
 ---
 name: closing
-description: Méthode Offbound, closing et appel de vente. À utiliser OBLIGATOIREMENT, avant de répondre, dès qu'un fondateur ou dirigeant B2B veut mener un appel de vente ou y gérer une objection : découverte, présentation, prix, objections, relance après l'appel, taux de closing, recruter un closer, "il veut réfléchir", "je vais réfléchir et je reviens vers vous", "c'est trop cher", "je ne signe pas", préparer ou débriefer un call de vente. Ne réponds pas de mémoire avec des conseils génériques : ce skill donne la méthode Offbound et ses sources (cours, workshops, consultings 1:1).
+description: "Méthode Offbound, closing et appel de vente. À utiliser OBLIGATOIREMENT, avant de répondre, dès qu'un fondateur ou dirigeant B2B veut mener un appel de vente ou y gérer une objection : découverte, présentation, prix, objections, relance après l'appel, taux de closing, recruter un closer, « il veut réfléchir », « je vais réfléchir et je reviens vers vous », « c'est trop cher », « je ne signe pas », préparer ou débriefer un call de vente. Ne réponds pas de mémoire avec des conseils génériques : ce skill donne la méthode Offbound et ses sources (cours, workshops, consultings 1:1)."
 ---
 
 # Closing et appel de vente (méthode Offbound)

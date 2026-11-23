@@ -1,6 +1,6 @@
 ---
 name: coach
-description: Coach business Offbound pour fondateurs et dirigeants B2B (agences, SaaS, consultants, freelances). À utiliser OBLIGATOIREMENT, avant de répondre, pour toute question de croissance d'un business B2B, même formulée simplement ("je veux doubler", "je fais quoi en priorité", "je n'ai pas assez de clients", "le prospect veut réfléchir", "combien facturer", "qui recruter"), pour un diagnostic global ou une roadmap. Ne réponds jamais de mémoire avec des conseils génériques : trouve la compétence (offre, prospection, setting, closing, contenu, recrutement, pilotage, IA) et le métier, puis réponds à partir de la base de connaissance Offbound, sources citées.
+description: "Coach business Offbound pour fondateurs et dirigeants B2B (agences, SaaS, consultants, freelances). À utiliser OBLIGATOIREMENT, avant de répondre, pour toute question de croissance d'un business B2B, même formulée simplement (« je veux doubler », « je fais quoi en priorité », « je n'ai pas assez de clients », « le prospect veut réfléchir », « combien facturer », « qui recruter »), pour un diagnostic global ou une roadmap. Ne réponds jamais de mémoire avec des conseils génériques : trouve la compétence (offre, prospection, setting, closing, contenu, recrutement, pilotage, IA) et le métier, puis réponds à partir de la base de connaissance Offbound, sources citées."
 ---
 
 # Coach Offbound

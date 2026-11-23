@@ -1,6 +1,6 @@
 ---
 name: pilotage
-description: Méthode Offbound, pilotage, organisation et structure. À utiliser OBLIGATOIREMENT, avant de répondre, dès qu'un fondateur ou dirigeant B2B veut piloter son business : KPIs, tableau de bord, organisation du temps, priorités, structure juridique et fiscalité, "je suis débordé", "quels chiffres suivre", "quelle société créer". Ne réponds pas de mémoire avec des conseils génériques : ce skill donne la méthode Offbound et ses sources (cours, workshops, consultings 1:1).
+description: "Méthode Offbound, pilotage, organisation et structure. À utiliser OBLIGATOIREMENT, avant de répondre, dès qu'un fondateur ou dirigeant B2B veut piloter son business : KPIs, tableau de bord, organisation du temps, priorités, structure juridique et fiscalité, « je suis débordé », « quels chiffres suivre », « quelle société créer ». Ne réponds pas de mémoire avec des conseils génériques : ce skill donne la méthode Offbound et ses sources (cours, workshops, consultings 1:1)."
 ---
 
 # Pilotage, organisation et structure (méthode Offbound)

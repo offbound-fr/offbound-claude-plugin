@@ -1,12 +1,16 @@
 {
   "name": "offbound",
-  "owner": { "name": "Offbound" },
-  "metadata": { "description": "Les outils Claude d'Offbound pour les membres de la communauté." },
+  "owner": {
+    "name": "Offbound"
+  },
+  "metadata": {
+    "description": "Offbound plugins for Claude."
+  },
   "plugins": [
     {
       "name": "offbound",
       "source": "./plugin",
-      "description": "Le coaching Offbound dans Claude, branché sur toute la formation Offbound."
+      "description": "The Offbound B2B growth method in Claude (members only, personal token required)."
     }
   ]
 }

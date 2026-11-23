@@ -1,6 +1,6 @@
 ---
 name: offre
-description: Méthode Offbound, offre, positionnement et prix. À utiliser OBLIGATOIREMENT, avant de répondre, dès qu'un fondateur ou dirigeant B2B veut construire, clarifier ou repositionner une offre B2B : cible, promesse, positionnement, prix, garantie, productisation, offre trop large ou qui ne se vend pas, "je ne sais pas quoi vendre", "mon offre est floue", "combien je facture". Ne réponds pas de mémoire avec des conseils génériques : ce skill donne la méthode Offbound et ses sources (cours, workshops, consultings 1:1).
+description: "Méthode Offbound, offre, positionnement et prix. À utiliser OBLIGATOIREMENT, avant de répondre, dès qu'un fondateur ou dirigeant B2B veut construire, clarifier ou repositionner une offre B2B : cible, promesse, positionnement, prix, garantie, productisation, offre trop large ou qui ne se vend pas, « je ne sais pas quoi vendre », « mon offre est floue », « combien je facture ». Ne réponds pas de mémoire avec des conseils génériques : ce skill donne la méthode Offbound et ses sources (cours, workshops, consultings 1:1)."
 ---
 
 # Offre, positionnement et prix (méthode Offbound)

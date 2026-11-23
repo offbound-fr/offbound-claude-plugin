@@ -1,7 +1,7 @@
 {
   "name": "offbound",
-  "version": "0.1.0",
-  "description": "Le coaching Offbound dans Claude : offre, prospection, setting, closing, contenu, recrutement, pilotage et IA, adaptés à ton métier, à partir de toute la formation Offbound (cours, workshops, consultings).",
+  "version": "0.1.1",
+  "description": "The Offbound B2B growth method in Claude: offer, outbound, LinkedIn setting, closing, content and hiring, adapted to your business type, from the full Offbound program. For Offbound members (personal token required). Answers in French.",
   "author": {
     "name": "Offbound"
   },
